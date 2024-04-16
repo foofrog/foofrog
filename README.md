@@ -1,3 +1,1 @@
-<p style="text-align: center;">
-    <img src="hop.gif"/>
-</p>
+<img align="center" src="hop.gif"/>
